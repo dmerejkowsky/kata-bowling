@@ -12,7 +12,7 @@ rolls.
 If you knock all 10 pins in the first roll, it's called a *strike* and
 you go to the next frame.
 
-If you know all 10 pints in two rolls, it's called a *spare*.
+If you knock all 10 pints in two rolls, it's called a *spare*.
 
 ## The scoring
 
